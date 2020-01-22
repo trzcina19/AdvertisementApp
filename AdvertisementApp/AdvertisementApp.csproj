@@ -30,7 +30,7 @@
 
   <ItemGroup>
     <None Include="wwwroot\icons\automotive.png" />
-    <None Include="wwwroot\icons\House.png" />
+    <None Include="wwwroot\icons\realestate.png" />
     <None Include="wwwroot\icons\Job.png" />
   </ItemGroup>
 

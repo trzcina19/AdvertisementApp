@@ -16,6 +16,7 @@
         <div class="col-lg-4 col-md-6 mb-4">
             <a asp-action="Index" asp-controller="Category" asp-area="Customer">
                 <div class="card h-100">
+                    @* Icons source: https://www.flaticon.com/ *@
                     <img class="card-img-top" src="~/icons/@String.Format(@x.CategoryName+".png")" style="max-width:20%;   margin-left: auto; margin-right: auto" alt="">
                     <div class="card-body">
                         <h4 class="card-title">@x.CategoryName</h4>
